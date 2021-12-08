@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Samsung First project</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="entrance">Вход</string>
+    <string name="errorData">Не коректные данные</string>
+</resources>
